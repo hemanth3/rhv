@@ -4,5 +4,43 @@
     "name":"hemanth",
     "label":"software engineer",
     "email":"abcd@gmail.com"
-  }
+  },
+  "career":{
+    "info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "Education":[
+    {
+      "Degree":"B-tech(Information technology)",
+      "Institute":"PVPSIT",
+      "Data":["2016-18","92%"]
+    },
+    {
+      "Degree":"Intermediate",
+      "Institute":"Narayana junior college",
+      "Data":["2014-16","93%"]
+    },
+    {
+      "Degree":"SSC",
+      "Institute":"Sri Raghavendra bala kuteer",
+      "Data":["2013-14","85%"]
+    }
+  ],
+  "Skills":[
+    {
+      "title":"Languages",
+      "content":["C","Python","C++","JAVA","R"]
+    },
+    {
+      "title":"DataBase",
+      "content":["SQL","MongoDB","MYSQL"]
+    },
+    {
+      "title":"Web technologies",
+      "content":["HTML","CSS","Javascript","PHP"]
+    },
+    {
+      "title":"Frameworks",
+      "content":["Django","CodeIgniter"]
+    }
+  ]
 }
